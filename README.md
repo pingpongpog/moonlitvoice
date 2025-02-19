@@ -7,5 +7,5 @@ commands:
 ```/leave``` Leave's the voice channel
 
 
-Voice model:
+
 download voice model from [here](https://alphacephei.com/vosk/models)
