@@ -1,5 +1,7 @@
 # moonlitvoice
 Bot responds according to your voice in discord vc.
+Discord python bot
+
 
 commands:
 ```/join``` Join's the voice channel.
